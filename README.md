@@ -1,2 +1,2 @@
 # MCP3002
-arduino MCP3002 SPI library
+Arduino Library for MCP3002 SPI ADC
